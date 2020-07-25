@@ -33,3 +33,7 @@ address{
 .navbar{
     background-color: #5325a3;
 }
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
